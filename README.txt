@@ -5,7 +5,7 @@ python filename.py to run*
 
 0. run 'pip install -r requirements.txt' in cmd to grab necessary libraries
 
-1. create an account for gttps://app.coqui.ai
+1. create an account for https://app.coqui.ai
 	as a free trial, you get 30 minutes of synthesis time free!
 	after this you will have to pay 20$ per 4 fours of synthesis time for the custom voice usage
 	
