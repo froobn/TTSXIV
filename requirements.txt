@@ -3,5 +3,4 @@ websockets==10.4
 NBSapi==0.6
 urllib3==1.26.7
 audioplayer==0.6
-textual==0.15.1
 audioread
