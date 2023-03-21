@@ -16,7 +16,7 @@ python filename.py to run*
 3. configure config.json in TTSXIV directory with your apikey in encased in quotes
 	ex: "apikey": "thisisasampleapikey",
 
-4. setup custom voices using populatevoices.py
+4. setup custom voices using populatevoices.py (or using POPULATEVOICES.bat)
 
 5. in dalamud, install texttotalk from the main addon download screen,
 	set the voice selection to be 'websocket',
@@ -25,6 +25,6 @@ python filename.py to run*
 6. in config.json, configure the port number to the port number used by texttotalk
 	you can also configure the SAPI TTS speech rate here (-10 to 10)
 
-7. run TTSXIV.py!
+7. run TTSXIV.py (or by using start.bat)
 
 Huzzah!
