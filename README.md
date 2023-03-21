@@ -17,6 +17,7 @@ python filename.py to run*
 	ex: "apikey": "thisisasampleapikey",
 
 4. OPTIONAL: setup custom voices using populatevoices.py (or using POPULATEVOICES.bat) ALT: manually upload custom voice files at https://app.coqui.ai/studio
+
 	you could also manually add any custom voices, BUT the program assumes that the voice name is lowercase and only alphabet characters!
 	** if you run more than once, it could create duplicate voices, I'll probably create a quick solution soon, but for now make sure you visit https://app.coqui.ai/studio to manage your custom voices if needed
 
