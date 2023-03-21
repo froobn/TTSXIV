@@ -16,7 +16,8 @@ python filename.py to run*
 3. configure config.json in TTSXIV directory with your apikey in encased in quotes
 	ex: "apikey": "thisisasampleapikey",
 
-4. setup custom voices using populatevoices.py (or using POPULATEVOICES.bat)
+4. OPTIONAL: setup custom voices using populatevoices.py (or using POPULATEVOICES.bat)
+	you could also manually add any custom voices, BUT the program assumes that the voice name is lowercase and only alphabet characters!
 
 5. in dalamud, install texttotalk from the main addon download screen,
 	set the voice selection to be 'websocket',
