@@ -7,14 +7,14 @@ python filename.py to run*
 	as a free trial, you get 30 minutes of synthesis time free!
 	after this you will have to pay 20$ per 4 fours of synthesis time for the custom voice usage
 	
-2. setup custom voices using populatevoices.py
-
-3. grab an api key from https://app.coqui.ai/account (scroll to the bottom)
+2. grab an api key from https://app.coqui.ai/account (scroll to the bottom)
 	COPY THIS KEY, YOU WILL ONLY SEE IT ONCE
 	you can create new keys and disable old ones from this page aswell
 
-4. configure config.json in TTSXIV directory with your apikey in encased in quotes
+3. configure config.json in TTSXIV directory with your apikey in encased in quotes
 	ex: "apikey": "thisisasampleapikey",
+
+4. setup custom voices using populatevoices.py
 
 5. in dalamud, install texttotalk from the main addon download screen,
 	set the voice selection to be 'websocket',
