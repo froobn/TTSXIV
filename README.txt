@@ -1,6 +1,7 @@
 TTSXIV SETUP INSTRUCTIONS - CoquiTTS:
 *to run python files directly, install python of course, to run in terminal type
 python filename.py to run*
+	I developed using python 3.7.1 
 
 1. create an account for gttps://app.coqui.ai
 	as a free trial, you get 30 minutes of synthesis time free!
@@ -22,6 +23,6 @@ python filename.py to run*
 6. in config.json, configure the port number to the port number used by texttotalk
 	you can also configure the SAPI TTS speech rate here (-10 to 10)
 
-7. run TTSXIV.exe!
+7. run TTSXIV.py!
 
 Huzzah!
