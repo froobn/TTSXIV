@@ -27,4 +27,6 @@ python filename.py to run*
 
 7. run TTSXIV.py (or by using start.bat)
 
+	- To install more SAPI5 voices, go to Speech Settings in Windows Settings, and install more voices (Ive only tested english based ones)
+
 Huzzah!
