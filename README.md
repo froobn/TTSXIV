@@ -22,6 +22,10 @@ python filename.py to run*
 	** if you run more than once, it could create duplicate voices, I'll probably create a quick solution soon, but for now make sure you visit https://app.coqui.ai/studio to manage your custom voices if needed
 
 5. in dalamud, install texttotalk from the main addon download screen,
+	to enable gendered SAPI voices:
+		set the voice selection to be 'system'
+		scroll down and enable 'use gendered voices'
+		*for some reason the websocket will still use this setting*
 	set the voice selection to be 'websocket',
 	take note of the port used, or set the port to whatever you'd like
 
@@ -31,5 +35,6 @@ python filename.py to run*
 7. run TTSXIV.py (or by using start.bat)
 
 	- To install more SAPI5 voices, go to Speech Settings in Windows Settings, and install more voices (Ive only tested english based ones)
+	- you may need to edit registry things, if its a problem for anyone ill come up with a solution
 
 Huzzah!
